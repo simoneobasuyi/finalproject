@@ -13,6 +13,9 @@ text-align: center;
 .wordpress {
   width:50%
 }
-head {
-
+.jumbotron {
+background-image: url("https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/31946535_2073494572889828_6272184176800169984_n.jpg?_nc_cat=0&oh=039f07433a70fc5eb8b1424a785a8b7a&oe=5B987B78");
+background-size: 100%;
+text-align: right;
+padding: left 10px;
 }
