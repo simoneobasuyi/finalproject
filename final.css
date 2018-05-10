@@ -4,14 +4,21 @@ body {
   background color: #EF8A25;
   text-decoration-color: #F9F2EB;
   text-align: center;
-  padding: 0;
   margin: 0 auto;
 }
 aside {
   display: block;
-  margin: 0 auto;
-  padding: 0;
-  text-align: center;
+  width: auto;
+  text-align: right;
   background color: #EC8014;
-  
+}
+.container {
+margin-top:400px;
+text-align: center;
+}
+.wordpress {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 50%;
 }
