@@ -1,30 +1,25 @@
 body {
   width:80%;
   height: 70%;
-  background color: blue;
-  text-decoration-color: #F9F2EB;
   text-align: center;
   margin: 0 auto;
+  text-color: blue;
 }
 
-.container {
-text-align: center;
+.container img {
+border-radius: 8px;
+border: 10px solid;
+padding: 5px;
+max-width: 100%;
+height: auto;
 }
-.wordpress {
+.aboutinfo {
   width:50%
+  text-decoration: none;
 }
-.jumbotron {
-background-image: url("https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/31946535_2073494572889828_6272184176800169984_n.jpg?_nc_cat=0&oh=039f07433a70fc5eb8b1424a785a8b7a&oe=5B987B78");
-background-size:100%;
-padding-left:10px;
--moz-transform: scaleX(-1);
-       -o-transform: scaleX(-1);
-       -webkit-transform: scaleX(-1);
-       transform: scaleX(-1);
-       filter: FlipH;
-       -ms-filter: "FlipH";
-}
-.jumbotron col-md-6 px-0 {
-  text-align: left;
-  
+p {
+ text-indent;
+ font-family: "Times New Roman", Times, serif;
+ font-style: normal;
+ font-size: 14px;
 }
