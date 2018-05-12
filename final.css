@@ -8,8 +8,8 @@ body {
 
 .container img {
 border-radius: 8px;
-border: 10px solid;
-padding: 5px;
+border: 10px solid white;
+padding: 0px;
 max-width: 100%;
 height: auto;
 }
