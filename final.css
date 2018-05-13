@@ -1,15 +1,12 @@
-*
-background-color: pink;
-  
- {
+* {
   text-align: center;
   margin: 0 auto;
 }
 .list-unstyled {
   text-align: center;
 }
-.nav-scroller {
-  color:#f16822;
+.nav d-flex justify-content-between {
+  color: white;
 }
 .container img {
 border-radius: 8px;
@@ -27,4 +24,17 @@ p {
  font-family: "Times New Roman", Times, serif;
  font-style: normal;
  font-size: 14px;
+}
+html body {
+    background-color: crimson;
+}
+
+.col-md-6 {
+  border-color: gray;
+  border-style: groove;
+  border-width: 10px;
+  max-width: 100%;
+  max-height: 100%
+  margin: 0 auto;
+  padding: 0px;
 }
