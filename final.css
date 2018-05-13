@@ -5,8 +5,10 @@
 .list-unstyled {
   text-align: center;
 }
-.nav d-flex justify-content-between {
-  color: white;
+.lead p {
+  font-style: italic;
+  font-size: 14px;
+  font-family: sans-serif;
 }
 .container img {
 border-radius: 8px;
@@ -19,14 +21,32 @@ height: auto;
   width:50%
   text-decoration: none;
 }
+.col-lg-8 {
+  max-width: 100%;
+}
+.container {
+  max-width: 100%;
+}
 p {
  text-indent;
  font-family: "Times New Roman", Times, serif;
  font-style: normal;
  font-size: 14px;
 }
+.my-3 {
+  font-size: 14px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+.card my-4 {
+  text-align: right;
+  text-decoration-style: solid;
+}
 html body {
     background-color: crimson;
+    border-color: gray;
+    border-width: 5px;
+    border style: dashed;
 }
 
 .col-md-6 {
